@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Olá! Meu nome é [Seu Nome]. Sou estudante de **Ciência da Computação** e atualmente estou me aprofundando em **Python**, explorando suas diversas aplicações, desde automação até desenvolvimento web e ciência de dados.
+Olá! Meu nome é Fernando Soares Da Silva. Sou estudante de **Ciência da Computação** e atualmente estou me aprofundando em **Python**, explorando suas diversas aplicações, desde automação até desenvolvimento web e ciência de dados.
 
 Tenho paixão por aprender e compartilhar conhecimentos sobre tecnologia, programação e inovação. Estou sempre buscando novos desafios para expandir minhas habilidades.
 
@@ -25,9 +25,9 @@ Tenho paixão por aprender e compartilhar conhecimentos sobre tecnologia, progra
 
 ## Entre em contato comigo
 
-- 📫 **Email**: seuemail@exemplo.com
-- 💼 **LinkedIn**: [Seu LinkedIn](https://linkedin.com/in/seu-usuario)
-- 🐦 **Twitter**: [Seu Twitter](https://twitter.com/seu-usuario)
+- 📫 **Email**: nandosoares719@gmail.com
+- 💼 **LinkedIn**: https://www.linkedin.com/in/fernando-soares-866375337/
+  
 
 ---
 
